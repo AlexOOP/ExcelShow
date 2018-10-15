@@ -1,0 +1,32 @@
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\bin\Debug\ExcelShow.exe.config
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\bin\Debug\ExcelShow.exe
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\bin\Debug\ExcelShow.pdb
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csprojResolveAssemblyReference.cache
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.ResolveComReference.cache
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.Form1.resources
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.Properties.Resources.resources
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.GenerateResource.Cache
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.exe
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.pdb
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\bin\Debug\ExcelShow.exe.config
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\bin\Debug\ExcelShow.exe
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\bin\Debug\ExcelShow.pdb
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csprojResolveAssemblyReference.cache
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.ResolveComReference.cache
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.GenerateResource.Cache
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.exe
+C:\Users\aleksandr.chanov\Desktop\Projects\ExcelShow\ExcelShow\obj\Debug\ExcelShow.pdb
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\bin\Debug\ExcelShow.exe.config
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\bin\Debug\ExcelShow.exe
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\bin\Debug\ExcelShow.pdb
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csprojResolveAssemblyReference.cache
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.ResolveComReference.cache
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.Form1.resources
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.Properties.Resources.resources
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.GenerateResource.Cache
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.exe
+C:\Users\aleksandr.chanov\Desktop\ExcelShow\ExcelShow\obj\Debug\ExcelShow.pdb

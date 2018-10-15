@@ -1,0 +1,9 @@
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\bin\Release\ExcelShow.exe.config
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Release\ExcelShow.csproj.ResolveComReference.cache
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\bin\Release\ExcelShow.exe
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\bin\Release\ExcelShow.pdb
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Release\ExcelShow.Form1.resources
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Release\ExcelShow.Properties.Resources.resources
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Release\ExcelShow.csproj.GenerateResource.Cache
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Release\ExcelShow.exe
+c:\users\aleksandr.chanov.nikel\documents\visual studio 2013\Projects\ExcelShow\ExcelShow\obj\Release\ExcelShow.pdb
